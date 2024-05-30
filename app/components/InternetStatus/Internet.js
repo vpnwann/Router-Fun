@@ -22,7 +22,7 @@ export default function Internet() {
       <div class="font-[sans-serif] text-[#333]">
     <div class="max-w-5xl mx-auto">
       
-      <div class="grid lg:grid-cols-3 sm:grid-cols-2 gap-8 mt-12 max-sm:max-w-sm max-sm:mx-auto">
+      <div class="grid lg:grid-cols-4 sm:grid-cols-3 gap-8 mt-12 max-sm:max-w-sm max-sm:mx-auto">
         <div class="border rounded-md p-6">
             <img src='https://i.pinimg.com/736x/d0/40/bb/d040bb00c5d0d10ffc6bf5c9e119775d.jpg'></img>
          <p className=' text-center'>Internet</p>

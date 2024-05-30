@@ -24,9 +24,9 @@ function Nav() {
     <Link href="/WifiSet">   <a 
             class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Wifi Settings
         </a></Link> 
-        <a href="#"
+        <Link href="/Guest">   <a 
             class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Guest Network
-        </a>
+        </a></Link> 
         <a href="#"
             class="block md:inline-block text-blue-900 hover:text-blue-500 px-3 py-3 border-b-2 border-blue-900 md:border-none">Advanced Setting
         </a>
